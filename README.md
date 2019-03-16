@@ -1,2 +1,0 @@
-# javaservlet
-javaservlet_Project
